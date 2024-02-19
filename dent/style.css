@@ -1,0 +1,31 @@
+.p1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  padding: 10px;
+  font-size: 20px;
+}
+.sp{
+    padding-top: 28px;
+}
+.p2{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+.si{
+    padding: 120px 0px 0px 50px;
+}
+.m{
+    text-align: center;
+    padding-top: 280px;
+    padding-left: 500px;
+    padding-right: 300px;
+    font-weight: bold;
+    font-size: 15px;
+}
+ a{
+    text-decoration: none;
+    background-color: orangered;
+    font-size: 25px;
+    border-radius: 50px;
+    border: 1px solid black;
+ }
